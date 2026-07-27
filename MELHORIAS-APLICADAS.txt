@@ -1,0 +1,14 @@
+NOVA ALIANÇA — MELHORIAS APLICADAS
+
+1. Hero reformulado para comunicar melhor o serviço.
+2. Indicador de atendimento em Sergipe e região.
+3. Barra fina de progresso no topo durante a rolagem.
+4. Menu reorganizado e adaptado para telas menores.
+5. Nova seção "Capacidades de projeto" com ilustrações técnicas próprias.
+6. Seção de FAQ para diminuir dúvidas antes do orçamento.
+7. Formulário com seleção rápida de serviços.
+8. Orientação sobre informações úteis para agilizar o orçamento.
+9. Animações e efeitos refinados sem exagero.
+10. Melhorias de acessibilidade e foco do teclado.
+11. Correção definitiva do problema do ícone Stairs.
+12. SEO básico melhorado no index.html.

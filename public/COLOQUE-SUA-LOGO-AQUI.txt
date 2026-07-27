@@ -1,0 +1,3 @@
+Coloque sua logo nesta pasta com o nome: logo1.png
+Caminho final: public/logo1.png
+Recomendado: PNG ou WEBP com fundo transparente e boa resolução.

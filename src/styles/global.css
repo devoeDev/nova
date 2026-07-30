@@ -3325,3 +3325,15 @@ h3 {
         animation: none !important;
     }
 }
+
+/* Informações completas de contato no rodapé */
+.footer-address-text {
+    display: grid;
+    gap: 2px;
+}
+
+.footer-column .footer-address-text span {
+    display: block;
+    color: inherit;
+    font-size: inherit;
+}
